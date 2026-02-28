@@ -60,7 +60,4 @@ python analyse.py        # génère les graphiques et le rapport
 ---
 
 ## Présentation
-Le fichier `rapport_final.tex` compile l'ensemble des deux projets en une présentation Beamer.
-```bash
-pdflatex rapport_final.tex
-```
+Le fichier `rapport_final.pdf` contient la présentation complète des deux projets.
