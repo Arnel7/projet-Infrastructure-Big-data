@@ -1,0 +1,10 @@
+rapport.py
+rapport_final.aux
+rapport_final.log
+rapport_final.nav
+rapport_final.out
+rapport_final.snm
+rapport_final.toc
+__pycache__/
+*.pyc
+.DS_Store
