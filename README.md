@@ -1,4 +1,4 @@
-# Projet Big Data — Infrastructure Big Data (PVPS10)
+# Projet Big Data — Infrastructure Big Data
 
 ## Structure du dépôt
 
