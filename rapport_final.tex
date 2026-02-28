@@ -16,13 +16,14 @@
 
 \definecolor{bleuPigier}{RGB}{0, 70, 127}
 \setbeamercolor{structure}{fg=bleuPigier}
+\setbeamercolor{ghheader}{bg=bleuPigier, fg=white}
 
 \setbeamertemplate{headline}{
   \leavevmode
-  \begin{beamercolorbox}[wd=\paperwidth,ht=2.8ex,dp=1ex,right,rightskip=0.5cm]{structure}
-    \tiny\color{white}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.8ex,dp=1ex,right,rightskip=0.5cm]{ghheader}
+    \tiny
     Code source disponible sur GitHub :
-    \href{https://github.com/Arnel7/projet-Infrastructure-Big-data}{https://github.com/Arnel7/projet-Infrastructure-Big-data}
+    \href{https://github.com/Arnel7/projet-Infrastructure-Big-data}{\color{white}\texttt{https://github.com/Arnel7/projet-Infrastructure-Big-data}}
     \hspace{0.3cm}
   \end{beamercolorbox}
 }
